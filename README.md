@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @Infinity265
-- 👀 I’m interested in tyres
-- 🌱 I’m currently learning vehicle dynamics 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Infinity265/Infinity265 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- No
